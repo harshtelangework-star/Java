@@ -1,0 +1,15 @@
+//Create a Java program that:
+//Stores your name, age, and height in variables
+//Prints them in a single line
+//Example Output:
+//Name: Alex, Age: 20, Height: 5.9
+
+public class main{
+    public static void main(String[]args){
+    String name = "Harsh";
+    int age = 22;
+    double height = 6.0;
+
+    System.out.println("Name: " + name + ", Age: " + age + ", Height: " + height);
+    }
+}
